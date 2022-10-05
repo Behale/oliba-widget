@@ -18,7 +18,7 @@ const styles: {[key: string]: any} = {
     width: 376,
     maxWidth: ['90%', '376px'],
     minHeight: 250,
-    maxHeight: ['60%', '704px'],
+    maxHeight: ['90%', '704px'],
     boxShadow: 'rgba(0, 0, 0, 0.16) 0px 5px 40px',
     height: 'calc(100% - 120px)',
     borderRadius: 8,
